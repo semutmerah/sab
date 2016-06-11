@@ -7,8 +7,8 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 
 # Kategori
 
-* [Docker][Docker]
-* [Git][Git]
+* [Docker](#docker)
+* [Git](#git)
 
 ---
 # Docker
