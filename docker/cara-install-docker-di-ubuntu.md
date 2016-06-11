@@ -30,3 +30,12 @@ $ sudo apt-get purge lxc-docker
 ```
 $ sudo apt-get install docker-engine
 ```
+1. Jalankan daemon untuk docker
+```
+$ sudo service docker start
+```
+1. Verifikasi bahwa docker telah terinstalasi dengan baik dengan menjalankan command ini
+```
+$ sudo docker run hello-world
+```
+Maksud perintah tersebut adalah, akan menjalankan images dari [docker hub](https://hub.docker.com/) yang bernama hello-world, docker akan otomatis pull images tersebut jika memang belum tersedia di lokal, dan otomatis akan menjalankannya dalam container.
