@@ -14,7 +14,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 # Docker
 
 # Git
-* [Cara Set Identitas](../blob/master/git/cara-set-identitas.md)
+* [Cara Set Identitas](../master/git/cara-set-identitas.md)
 
 ---
 
@@ -24,4 +24,4 @@ Saya mencontek ide ini dari [jbranchaud/til](https://github.com/jbranchaud/til) 
 # Lisensi
 &copy; 2016 Muhammad Rasyid Fahroni
 
-Repository ini menggunakan MIT License. Lihat file [LICENSE](../blob/master/LICENSE) untuk info lebih lanjut.
+Repository ini menggunakan MIT License. Lihat file [LICENSE](../master/LICENSE) untuk info lebih lanjut.
