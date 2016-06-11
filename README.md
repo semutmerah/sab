@@ -12,6 +12,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 
 ---
 # Docker
+* [Membuat Private Registry](../master/docker/membuat-private-registry.md)
 
 # Git
 * [Cara Set Identitas](../master/git/cara-set-identitas.md)
