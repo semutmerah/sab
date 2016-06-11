@@ -1,5 +1,7 @@
 # Membuat Private Registry
 
+Registry adalah aplikasi server side yang scalable, berfungsi untuk menyimpan juga mendistribusikan docker images. Singkat kata ini adalah alternatif untuk docker hub jika kita ingin menyimpan dan mendistribusikan docker images secara lokal.
+
 Start registry
 
 ```
