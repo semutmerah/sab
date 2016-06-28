@@ -9,6 +9,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 
 * [Docker](#docker)
 * [Git](#git)
+* [Linux](#linux)
 * [Python](#python)
 
 ---
@@ -18,6 +19,9 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 
 # Git
 * [Cara Set Identitas](../master/git/cara-set-identitas.md)
+
+# Linux
+* [Resize swap pada partisi LVM](../master/linux/resize-swap-partisi-lvm.md)
 
 # Python
 * [Hapus semua package (ubuntu)](../master/python/hapus-semua-package-ubuntu.md)
