@@ -11,8 +11,10 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Git](#git)
 * [Linux](#linux)
 * [Python](#python)
+* [SSH](#ssh)
 
 ---
+
 # Docker
 * [Cara Install Docker Engine Di Ubuntu](../master/docker/cara-install-docker-di-ubuntu.md)
 * [Membuat Private Registry](../master/docker/membuat-private-registry.md)
@@ -25,6 +27,9 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 
 # Python
 * [Hapus semua package (ubuntu)](../master/python/hapus-semua-package-ubuntu.md)
+
+# SSH
+* [Set koneksi menggunakan kunci otentikasi](../master/ssh/set-koneksi-kunci-otentikasi.md)
 
 ---
 
