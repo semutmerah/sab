@@ -24,6 +24,8 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 
 # Linux
 * [Resize swap pada partisi LVM](../master/linux/resize-swap-partisi-lvm.md)
+* [Systemctl Command](../master/linux/systemctl.md)
+
 
 # Python
 * [Hapus semua package (ubuntu)](../master/python/hapus-semua-package-ubuntu.md)
