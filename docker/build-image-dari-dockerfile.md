@@ -39,6 +39,6 @@
 
 4. Jalankan perintah berikut (di dalam direktori tersimpanya Dockerfile) untuk menciptakan image berdasarkan Dockerfile, yang akan kita beri nama/tag rasyid-php7
 
-```
-$ rasyid build -t rasyid-php7 .
-```
+  ```
+  $ rasyid build -t rasyid-php7 .
+  ```
