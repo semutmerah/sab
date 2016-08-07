@@ -19,6 +19,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Build Image Dari Dockerfile](../master/docker/build-image-dari-dockerfile.md)
 * [Cara Install Docker Engine Di Ubuntu](../master/docker/cara-install-docker-di-ubuntu.md)
 * [Membuat Private Registry](../master/docker/membuat-private-registry.md)
+* [Menjalankan Container Dari Image](../master/docker/menjalankan-container-dari-image.md)
 
 # Git
 * [Cara Set Identitas](../master/git/cara-set-identitas.md)
