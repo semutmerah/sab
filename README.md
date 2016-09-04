@@ -32,6 +32,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 
 # Python
 * [Hapus semua package (ubuntu)](../master/python/hapus-semua-package-ubuntu.md)
+* [Method mengecek bilangan prima](../master/python/method-mengecek-bilangan-prima.md)
 
 # SSH
 * [Set koneksi menggunakan kunci otentikasi](../master/ssh/set-koneksi-kunci-otentikasi.md)
