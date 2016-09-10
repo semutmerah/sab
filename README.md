@@ -35,6 +35,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Method mengecek bilangan prima](../master/python/method-mengecek-bilangan-prima.md)
 * [Method remove duplicates](../master/python/method-remove-duplicates.md)
 * [Method reverse string](../master/python/method-reverse-string.md)
+* [Virtual environment](../master/python/virtual-environment.md)
 
 # SSH
 * [Set koneksi menggunakan kunci otentikasi](../master/ssh/set-koneksi-kunci-otentikasi.md)
