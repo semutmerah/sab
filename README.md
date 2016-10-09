@@ -44,6 +44,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 
 # RobotFramework
 * [Eksekusi Selenium pada real device android](../master/robotframework/eksekusi-selenium-pada-real-device-android.md)
+* [Mematikan flash player pada selenium](../master/robotframework/mematikan-flash-player-pada-selenium.md)
 
 # SSH
 * [Set koneksi menggunakan kunci otentikasi](../master/ssh/set-koneksi-kunci-otentikasi.md)
