@@ -7,6 +7,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 
 # Kategori
 
+* [Android](#android)
 * [Docker](#docker)
 * [Git](#git)
 * [Linux](#linux)
@@ -14,6 +15,9 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [SSH](#ssh)
 
 ---
+
+# Android
+* [Mendapatkan current screen activity via adb](../master/android/mendapatkan-current-screen-activity.md)
 
 # Docker
 * [Build Image Dari Dockerfile](../master/docker/build-image-dari-dockerfile.md)
