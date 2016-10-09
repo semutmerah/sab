@@ -12,6 +12,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Git](#git)
 * [Linux](#linux)
 * [Python](#python)
+* [RobotFramework](#robotframework)
 * [SSH](#ssh)
 
 ---
@@ -40,6 +41,9 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Method remove duplicates](../master/python/method-remove-duplicates.md)
 * [Method reverse string](../master/python/method-reverse-string.md)
 * [Virtual environment](../master/python/virtual-environment.md)
+
+# RobotFramework
+* [Eksekusi Selenium pada real device android](../master/robotframework/eksekusi-selenium-pada-real-device-android.md)
 
 # SSH
 * [Set koneksi menggunakan kunci otentikasi](../master/ssh/set-koneksi-kunci-otentikasi.md)
