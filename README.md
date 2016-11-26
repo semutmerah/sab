@@ -31,6 +31,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 
 # Git
 * [Cara Set Identitas](../master/git/cara-set-identitas.md)
+* [Fix error could not read username for](../master/git/fix-could-not-read-username-for.md)
 
 # Linux
 * [Resize swap pada partisi LVM](../master/linux/resize-swap-partisi-lvm.md)
