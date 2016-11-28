@@ -10,6 +10,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Android](#android)
 * [Docker](#docker)
 * [Git](#git)
+* [iOS](#ios)
 * [Linux](#linux)
 * [Python](#python)
 * [RobotFramework](#robotframework)
@@ -33,6 +34,9 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 # Git
 * [Cara Set Identitas](../master/git/cara-set-identitas.md)
 * [Fix error could not read username for](../master/git/fix-could-not-read-username-for.md)
+
+# iOS
+* [Mendapatkan UDID iPhone dari terminal](../master/ios/mendapatkan-udid-iphone-dari-terminal.md)
 
 # Linux
 * [Resize swap pada partisi LVM](../master/linux/resize-swap-partisi-lvm.md)
