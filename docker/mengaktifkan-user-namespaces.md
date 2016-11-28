@@ -4,7 +4,7 @@ User namespaces adalah fitur sekuriti baru sejak docker versi 1.10. Dengan user 
 
 1. Edit unit file pada service docker
   ```
-  $ sudo systemctl edit docker.service
+  $ sudo systemctl edit --full docker.service
   ```
 
 2. tambahkan --userns-remap=default pada baris _ExecStart=/usr/bin/dockerd -H fd://_, simpan ubahan
@@ -23,3 +23,5 @@ User namespaces adalah fitur sekuriti baru sejak docker versi 1.10. Dengan user 
   ```
 
 Voila!
+
+Untuk mengetestnya, cobalah running sebuah image dan mount volume /etc/ ke container, lalu cobalah membuat file baru pada volume tersebut. Seharusnya eksekusi membuat file baru akan gagal karena telah menerapkan user namespaces.
