@@ -19,6 +19,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 ---
 
 # Android
+* [Install APK force permissions](../master/android/install-apk-force-permissions.md)
 * [Mendapatkan current screen activity via adb](../master/android/mendapatkan-current-screen-activity.md)
 * [Mendapatkan udid semua real device yang terkoneksi komputer](../master/android/mendapatkan-udid-semua-real-device-yang-terkoneksi.md)
 
