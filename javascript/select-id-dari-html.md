@@ -1,4 +1,4 @@
-## Select ID dari sebuah element (jQuery Alternatives)
+## Select ID dari html (goodbye jQuery)
 
 Misal, pada dokumen HTML memiliki markup:
 ```
@@ -16,7 +16,7 @@ atau
 
 ```
 var result = document.querySelector('#my-element-id');
-result.id = 'my-element-id'; // returns true
+result.id === 'my-element-id'; // returns true
 ```
 
 Cara kedua (querySelector) lebih lambat dari pada cara pertama, namun akan membaik seiring perkembangan browser.

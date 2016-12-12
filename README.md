@@ -41,7 +41,8 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Mendapatkan UDID iPhone dari terminal](../master/ios/mendapatkan-udid-iphone-dari-terminal.md)
 
 # Javascript
-* [Select ID dari sebuah element](../master/javascript/select-id-dari-sebuah-element.md)
+* [Select Class dari HTML](../master/javascript/select-class-dari-html.md)
+* [Select ID dari HTML](../master/javascript/select-id-dari-html.md)
 
 # Linux
 * [Resize swap pada partisi LVM](../master/linux/resize-swap-partisi-lvm.md)
