@@ -19,7 +19,7 @@ var result = document.querySelectorAll('CODE');
 result[0].tagName ==== 'CODE'; // returns true
 ```
 
-atau jika diketahui hanya ada satu element tag <code>
+atau jika diketahui hanya ada satu element tag ```<code>```
 
 ```
 document.querySelector('CODE').tagName === 'CODE';
