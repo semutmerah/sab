@@ -42,6 +42,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 
 # Javascript
 * [Select Class dari HTML](../master/javascript/select-class-dari-html.md)
+* [Select Element tag dari HTML](../master/javascript/select-element-tag-dari-html.md)
 * [Select ID dari HTML](../master/javascript/select-id-dari-html.md)
 
 # Linux
