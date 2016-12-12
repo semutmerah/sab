@@ -11,6 +11,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Docker](#docker)
 * [Git](#git)
 * [iOS](#ios)
+* [Javascript](#javascript)
 * [Linux](#linux)
 * [Python](#python)
 * [RobotFramework](#robotframework)
@@ -38,6 +39,9 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 
 # iOS
 * [Mendapatkan UDID iPhone dari terminal](../master/ios/mendapatkan-udid-iphone-dari-terminal.md)
+
+# Javascript
+* [Select ID dari sebuah element](../master/javascript/select-id-dari-sebuah-element.md)
 
 # Linux
 * [Resize swap pada partisi LVM](../master/linux/resize-swap-partisi-lvm.md)
