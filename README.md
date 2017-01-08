@@ -20,6 +20,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 ---
 
 # Android
+* [Flash recovery](../master/android/flash-recovery.md)
 * [Install APK force permissions](../master/android/install-apk-force-permissions.md)
 * [Lock dan Unlock Bootloader](../master/android/lock-unlock-bootloader.md)
 * [Memberikan permission untuk app (tanpa root)](../master/android/memberikan-permission-pada-app.md)
