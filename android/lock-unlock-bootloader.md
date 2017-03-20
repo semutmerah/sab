@@ -5,10 +5,10 @@ Jalankan perintah ini dengan kondisi sudah masuk di bootloader. Asumsi perintah 
 
 Unlock bootloader:
 ```
-$ sudo $(which fastboot) unlock oem
+$ sudo $(which fastboot) oem unlock
 ```
 
 Lock bootloader:
 ```
-$ sudo $(which fastboot) lock oem
+$ sudo $(which fastboot) oem lock
 ```
