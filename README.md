@@ -49,6 +49,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Select Element tag dari HTML](../master/javascript/select-element-tag-dari-html.md)
 * [Select ID dari HTML](../master/javascript/select-id-dari-html.md)
 * [Select pseudo-classes dari HTML](../master/javascript/select-pseudo-classes-dari-html.md)
+* [Select siblings dari html](../master/javascript/select-siblings-dari-html.md)
 
 # Linux
 * [Resize swap pada partisi LVM](../master/linux/resize-swap-partisi-lvm.md)
