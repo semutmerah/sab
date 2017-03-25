@@ -40,6 +40,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Cara Set Identitas](../master/git/cara-set-identitas.md)
 * [Fix error could not read username for](../master/git/fix-could-not-read-username-for.md)
 * [Menambahkan upstream](../master/git/menambahkan-upstream.md)
+* [Merging / Rebase dari upstream](../master/git/merging-rebase-dari-upstream.md)
 
 # iOS
 * [Mendapatkan UDID iPhone dari terminal](../master/ios/mendapatkan-udid-iphone-dari-terminal.md)
