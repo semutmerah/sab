@@ -54,6 +54,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Select siblings dari html](../master/javascript/select-siblings-dari-html.md)
 
 # Linux
+* [Install java JDK pada Ubuntu](../master/linux/install-java-jdk-ubuntu.md)
 * [Resize swap pada partisi LVM](../master/linux/resize-swap-partisi-lvm.md)
 * [Systemctl Command](../master/linux/systemctl.md)
 
