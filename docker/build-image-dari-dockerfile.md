@@ -45,11 +45,11 @@
 4. Jalankan perintah berikut (di dalam direktori tersimpannya Dockerfile) untuk menciptakan image berdasarkan Dockerfile, yang akan kita beri repository/tag rasyid-php7:latest. Secara otomatis docker akan membuat tag latest jika tidak kita tambahkan parameter tersebut saat menjalankan perintah, seperti perintah di bawah:
 
   ```
-  $ rasyid build -t rasyid-php7 .
+  $ docker build -t rasyid-php7 .
   ```
 
   Jika ingin menambahkan tag, misal 1.0 (version), maka perintahnya menjadi:
 
   ```
-  $ rasyid build -t rasyid-php7:1.0 .
+  $ docker build -t rasyid-php7:1.0 .
   ```
