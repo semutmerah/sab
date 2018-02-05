@@ -73,6 +73,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Mendapatkan string dari stdout proses](../master/robotframework/mendapatkan-string-dari-stdout-proses.md)
 
 # SSH
+* [Fix too many authentication failures](../master/ssh/fix-too-many-authentication-failures.md)
 * [Set koneksi menggunakan kunci otentikasi](../master/ssh/set-koneksi-kunci-otentikasi.md)
 
 ---
