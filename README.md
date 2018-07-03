@@ -11,6 +11,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Docker](#docker)
 * [Git](#git)
 * [iOS](#ios)
+* [Java](#java)
 * [Javascript](#javascript)
 * [Linux](#linux)
 * [Python](#python)
@@ -44,6 +45,9 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 
 # iOS
 * [Mendapatkan UDID iPhone dari terminal](../master/ios/mendapatkan-udid-iphone-dari-terminal.md)
+
+# Java
+* [Format ke Rupiah](../master/java/format-ke-rupiah.md)
 
 # Javascript
 * [Select Class dari HTML](../master/javascript/select-class-dari-html.md)
