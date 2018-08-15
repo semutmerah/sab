@@ -48,6 +48,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 
 # Java
 * [Format ke Rupiah](../master/java/format-ke-rupiah.md)
+* [Perbedaan final dan static final](../master/java/perbedaan-final-dan-static-final.md)
 
 # Javascript
 * [Select Class dari HTML](../master/javascript/select-class-dari-html.md)
