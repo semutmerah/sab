@@ -55,7 +55,7 @@ Jika aktif, maka anda akan melihat output ```Y``` atau ```1```
 
 Saat ini, sudah banyak juga projek open source dengan misi menjalankan android emulator x86 di docker, dengan limitasi Linux sebagai host Docker. Salah satunya adalah projek ini: https://github.com/butomo1989/docker-android
 
-Sedangkan pada Host Windows, docker memanfaatkan Hyper-V yang merupakan Hypervisor native Windows sebagai basis. Merujuk pada blog windows di sini : https://blogs.msdn.microsoft.com/visualstudio/2018/05/08/hyper-v-android-emulator-support/ , Hyper-V juga telah support nested virtualization dan memungkinkan untuk menjalankan android emulator pada docker.
+Sedangkan pada Host Windows, docker memanfaatkan Hyper-V yang merupakan Hypervisor native Windows sebagai basis. Merujuk pada blog windows di sini : https://blogs.msdn.microsoft.com/visualstudio/2018/05/08/hyper-v-android-emulator-support/ , Hyper-V juga telah support nested virtualization dan memungkinkan untuk menjalankan android emulator x86 pada docker dengan host Windows.
 
 Sedangkan pada MacOS, saat ini Docker berjalan dengan memanfaatkan [Hyperkit](https://github.com/moby/hyperkit). Kekurangan Hyperkit sendiri adalah sampai saat ini belum support nested virtualization, yang dikuatkan oleh issue yang tercatat di repository hyperkit [di sini](https://github.com/moby/hyperkit/issues/127).
 
