@@ -34,13 +34,14 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 
 # Docker
 * [Build Image Dari Dockerfile](../master/docker/build-image-dari-dockerfile.md)
+* [Build Image Dengan Commit](../master/docker/build-image-dengan-commit.md)
 * [Cara Install Docker Engine Di Ubuntu](../master/docker/cara-install-docker-di-ubuntu.md)
 * [Detach](../master/docker/detach-dan-membiarkannya-running.md)
 * [Membuat Private Registry](../master/docker/membuat-private-registry.md)
 * [Mengaktifkan User Namespaces](../master/docker/mengaktifkan-user-namespaces.md)
 * [Menjalankan Container Dari Image](../master/docker/menjalankan-container-dari-image.md)
 * [Mounting volume](../master/docker/mounting-volume.md)
-* [Nested virtualization di docker](../master/docker/nested-virtualization-di-docker.md)
+* [Nested Virtualization Di Docker](../master/docker/nested-virtualization-di-docker.md)
 
 # Git
 * [Cara Set Identitas](../master/git/cara-set-identitas.md)
