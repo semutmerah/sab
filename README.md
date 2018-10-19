@@ -39,6 +39,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Cara Install Docker Engine Di Ubuntu](../master/docker/cara-install-docker-di-ubuntu.md)
 * [Detach](../master/docker/detach-dan-membiarkannya-running.md)
 * [Expose Container Port Ke Host](../master/docker/expose-container-port-ke-host.md)
+* [Linking Container](../master/docker/linking-container.md)
 * [Membuat Private Registry](../master/docker/membuat-private-registry.md)
 * [Mengaktifkan User Namespaces](../master/docker/mengaktifkan-user-namespaces.md)
 * [Menjalankan Container Dari Image](../master/docker/menjalankan-container-dari-image.md)
