@@ -17,6 +17,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 - [Javascript](#javascript)
 - [Linux](#linux)
 - [Python](#python)
+- [Redis](#redis)
 - [RobotFramework](#robotframework)
 - [SSH](#ssh)
 - [Tentang](#tentang)
@@ -77,6 +78,9 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Method remove duplicates](../master/python/method-remove-duplicates.md)
 * [Method reverse string](../master/python/method-reverse-string.md)
 * [Virtual environment](../master/python/virtual-environment.md)
+
+# Redis
+* [Debug](../master/redis/debug.md)
 
 # RobotFramework
 * [Eksekusi Selenium pada real device android](../master/robotframework/eksekusi-selenium-pada-real-device-android.md)
