@@ -31,8 +31,8 @@ Jika digambarkan dengan bagan, maka seperti inilah bagan saat ini yang memungkin
 
      Android (x86)          <-- L1 Guest
 -------------------------
-     KVM / Hyper-V
-   bypassing from L0        <-- L1 Hypervisor      
+   KVM / Hyper-V Libs
+   bypassing from Host      <-- L1 Hypervisor      
 -------------------------
     Ubuntu / Windows        <-- L0 Guest
    container by Docker
