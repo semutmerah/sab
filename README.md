@@ -51,6 +51,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Fix error could not read username for](../master/git/fix-could-not-read-username-for.md)
 * [Menambahkan upstream](../master/git/menambahkan-upstream.md)
 * [Merging / Rebase dari upstream](../master/git/merging-rebase-dari-upstream.md)
+* [Rebase dan Force Overriding Conflicts](../master/git/rebase-dan-force-overriding-conflicts.md)
 
 # iOS
 * [Mendapatkan UDID iPhone dari terminal](../master/ios/mendapatkan-udid-iphone-dari-terminal.md)
