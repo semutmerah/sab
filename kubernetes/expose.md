@@ -16,3 +16,12 @@ $ kubectl expose deployment tomcat-deployment --type=NodePort
 ```
 
 Flag ```--type=Node``` sendiri pemaparannya sudah disampaikan pada dokumentasi kubernetes service di atas.
+
+Jika pakai minikube, maka untuk mengetahui alamat lengkap dari service ```tomcat-deployment``` tersebut bisa dilakukan dengan perintah:
+
+```
+$ minikube service tomcat-deployment --url
+http://192.168.99.100:31163
+```
+
+Yang berarti berdasarkan output, kita bisa mengunjungi tomcat server tersebut dari luar dengan mengakses ke ```http://192.168.99.100:31163```
