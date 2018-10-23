@@ -70,6 +70,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Select siblings dari html](../master/javascript/select-siblings-dari-html.md)
 
 # Kubernetes
+* [Cek rollout history](../master/kubernetes/cek-rollout-history.md)
 * [Deploy pod](../master/kubernetes/deploy-pod.md)
 * [Expose](../master/kubernetes/expose.md)
 * [Scaling pod](../master/kubernetes/scaling-pod.md)
