@@ -15,6 +15,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 - [iOS](#ios)
 - [Java](#java)
 - [Javascript](#javascript)
+- [Kubernetes](#kubernetes)
 - [Linux](#linux)
 - [Python](#python)
 - [Redis](#redis)
@@ -67,6 +68,9 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Select ID dari HTML](../master/javascript/select-id-dari-html.md)
 * [Select pseudo-classes dari HTML](../master/javascript/select-pseudo-classes-dari-html.md)
 * [Select siblings dari html](../master/javascript/select-siblings-dari-html.md)
+
+# Kubernetes
+* [Deploy pod](../master/kubernetes/deploy-pod.md)
 
 # Linux
 * [Install java JDK pada Ubuntu](../master/linux/install-java-jdk-ubuntu.md)
