@@ -75,6 +75,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Expose](../master/kubernetes/expose.md)
 * [Scaling pod](../master/kubernetes/scaling-pod.md)
 * [Set image deployment](../master/kubernetes/set-image-deployment.md)
+* [Set secrets](../master/kubernetes/set-secrets.md)
 
 # Linux
 * [Install java JDK pada Ubuntu](../master/linux/install-java-jdk-ubuntu.md)
