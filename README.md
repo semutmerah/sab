@@ -73,6 +73,7 @@ Koleksi catatan-catatan ringan tentang apa saja yang sudah saya pelajari khususn
 * [Cek rollout history](../master/kubernetes/cek-rollout-history.md)
 * [Deploy pod](../master/kubernetes/deploy-pod.md)
 * [Expose](../master/kubernetes/expose.md)
+* [Namespace dan resource quota](../master/kubernetes/namespace-dan-resource-quota.md)
 * [Scaling pod](../master/kubernetes/scaling-pod.md)
 * [Set image deployment](../master/kubernetes/set-image-deployment.md)
 * [Set secrets](../master/kubernetes/set-secrets.md)
